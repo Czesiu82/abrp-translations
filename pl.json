@@ -67,7 +67,7 @@
   "road_conditions": "Warunki drogowe",
   "departure_soc": "Wyjazd SoC",
   "departure_soc_description": "Początkowy SoC samochodu.",
-  "reference_consumption": "Zużycie referencyjne",
+  "reference_consumption": "Zużycie referencyjne.",
   "reference_consumption_description": "Referencyjne zużycie samochodu.",
   "fast_chargers": "Szybkie ładowarki",
   "slow_chargers": "Wolne ładowarki",
